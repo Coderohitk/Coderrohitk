@@ -1,23 +1,21 @@
-# Hi there! 👋
+# Hi there! 
 
 ## I'm Rohit Kumar
 
-I'm a web developer passionate about creating dynamic and user-friendly websites. I love learning new technologies and improving my skills in front-end and back-end development.
+I was a Mechanical Engineer in the past, but I have always had a keen interest in coding. This September, I started a web development course at Humber College. It's been a fantastic experience, and I'm enjoying the learning process. I hope to make new friends and gain references for my future endeavors in tech.
 
-### 🌱 I’m currently learning:
+###  I’m currently learning:
 - C#
 - SQL and MySQL
 - JavaScript
 
-### 📫 How to reach me:
-- [LinkedIn](https://www.linkedin.com/in/your-linkedin-profile)
-- [Twitter](https://twitter.com/your-twitter-handle)
-- [Personal Portfolio](https://your-portfolio-link.com)
+###  How to reach me:
+- [LinkedIn]([https://www.linkedin.com/in/your-linkedin-profile](https://www.linkedin.com/in/rohit-kumar-80757a163/))
+- [StackOverflaw]([https://twitter.com/your-twitter-handle](https://stackoverflow.com/users/27200748/rohit-kumar))
+- [Instagram](https://www.instagram.com/rohit_singh_grover/)
 
-### 💼 Projects:
-- [Back-End Web Development](https://github.com/your-username/http-5125)
-- [Database Design and Development](https://github.com/your-username/http-5126)
-- [Front-End Web Development](https://github.com/your-username/http-5122)
+### Projects:
+- [Front-End Web Development]([https://github.com/your-username/http-5122](https://github.com/crazycoderin/ADMIN-PORTAL))
 
-### ⚡ Fun fact:
-I love traveling, especially to Japan and Norway! 🌏✈️
+### Fun fact:
+I love traveling, I wanted visit to Japan and Norway! 🌏✈️
