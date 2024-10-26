@@ -10,8 +10,8 @@ I was a Mechanical Engineer in the past, but I have always had a keen interest i
 - JavaScript
 
 ###  How to reach me:
-- [LinkedIn]([https://www.linkedin.com/in/your-linkedin-profile](https://www.linkedin.com/in/rohit-kumar-80757a163/))
-- [StackOverflaw]([https://twitter.com/your-twitter-handle](https://stackoverflow.com/users/27200748/rohit-kumar))
+- [LinkedIn]([https://www.linkedin.com/in/your-linkedin-profile](https://www.linkedin.com/in/rohit-kumar-80757a163/)
+- [StackOverflaw]([https://twitter.com/your-twitter-handle](https://stackoverflow.com/users/27200748/rohit-kumar)
 - [Instagram](https://www.instagram.com/rohit_singh_grover/)
 
 ### Projects:
